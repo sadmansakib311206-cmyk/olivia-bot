@@ -1,0 +1,1 @@
+{"dependencies":{"dotenv":"^16.4.5","express":"^4.19.2"},"description":"Official Meta Messenger Platform webhook bot for a Facebook Page — friendly AI chat friend (never pretends to be human).","engines":{"node":">=18"},"main":"server.js","name":"olivia-page-bot","scripts":{"start":"node server.js","test":"node test-local.js && node test-posts.js"},"version":"1.0.0"}
